@@ -1,2 +1,2 @@
 # this-is-the-games-website
-download the file
+download this then open the file
